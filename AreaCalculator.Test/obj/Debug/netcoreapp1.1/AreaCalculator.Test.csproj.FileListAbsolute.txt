@@ -1,0 +1,15 @@
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaCalculator.Test\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaCalculator.Test\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaCalculator.Test\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaCalculator.Test\bin\Debug\netcoreapp1.1\AreaCalculator.Test.deps.json
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaCalculator.Test\bin\Debug\netcoreapp1.1\AreaCalculator.Test.runtimeconfig.json
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaCalculator.Test\bin\Debug\netcoreapp1.1\AreaCalculator.Test.runtimeconfig.dev.json
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaCalculator.Test\bin\Debug\netcoreapp1.1\AreaCalculator.Test.dll
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaCalculator.Test\bin\Debug\netcoreapp1.1\AreaCalculator.Test.pdb
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaCalculator.Test\bin\Debug\netcoreapp1.1\AreaCalculator.App.dll
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaCalculator.Test\bin\Debug\netcoreapp1.1\AreaCalculator.App.pdb
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaCalculator.Test\obj\Debug\netcoreapp1.1\AreaCalculator.Test.csprojResolveAssemblyReference.cache
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaCalculator.Test\obj\Debug\netcoreapp1.1\AreaCalculator.Test.csproj.CoreCompileInputs.cache
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaCalculator.Test\obj\Debug\netcoreapp1.1\AreaCalculator.Test.AssemblyInfo.cs
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaCalculator.Test\obj\Debug\netcoreapp1.1\AreaCalculator.Test.dll
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaCalculator.Test\obj\Debug\netcoreapp1.1\AreaCalculator.Test.pdb

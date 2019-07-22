@@ -1,0 +1,15 @@
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaofShapes.Test\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaofShapes.Test\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaofShapes.Test\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaofShapes.Test\bin\Debug\netcoreapp1.1\AreaofShapes.Test.deps.json
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaofShapes.Test\bin\Debug\netcoreapp1.1\AreaofShapes.Test.runtimeconfig.json
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaofShapes.Test\bin\Debug\netcoreapp1.1\AreaofShapes.Test.runtimeconfig.dev.json
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaofShapes.Test\bin\Debug\netcoreapp1.1\AreaofShapes.Test.dll
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaofShapes.Test\bin\Debug\netcoreapp1.1\AreaofShapes.Test.pdb
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaofShapes.Test\bin\Debug\netcoreapp1.1\AreaofShapes.dll
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaofShapes.Test\bin\Debug\netcoreapp1.1\AreaofShapes.pdb
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaofShapes.Test\obj\Debug\netcoreapp1.1\AreaofShapes.Test.csprojResolveAssemblyReference.cache
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaofShapes.Test\obj\Debug\netcoreapp1.1\AreaofShapes.Test.csproj.CoreCompileInputs.cache
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaofShapes.Test\obj\Debug\netcoreapp1.1\AreaofShapes.Test.AssemblyInfo.cs
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaofShapes.Test\obj\Debug\netcoreapp1.1\AreaofShapes.Test.dll
+C:\Users\rparkar\Desktop\Assignments\AreaofShapes\AreaofShapes.Test\obj\Debug\netcoreapp1.1\AreaofShapes.Test.pdb
